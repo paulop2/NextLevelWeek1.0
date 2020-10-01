@@ -2,4 +2,4 @@
 Conteúdo criado na Next Level Week dado pela Rocketseat
 
 ## Coisas a fazer
-*Utilizar o template da Rocketseat
+* Utilizar o template da Rocketseat
