@@ -52,7 +52,7 @@
 ♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
+Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/), seguindo a trilha Lauchbase.
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 ---
@@ -62,7 +62,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 - [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
   - [x] uma imagem do ponto de coleta
   - [x] nome da entidade, email e whatsapp
-  - [x] e o endereço para que ele possa aparecer no mapa
+  - [x] endereço
   - [x] além de selecionar um ou mais ítens de coleta: 
     - lâmpadas
     - pilhas e baterias
@@ -84,9 +84,9 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ## 🚀 Como executar o projeto
 
-Este projeto é divido em três partes:
-1. Backend (pasta server) 
-2. Frontend (pasta web)
+Este projeto é divido em duas partes:
+1. Backend 
+2. Frontend
 
 💡 O Frontend necessita que o Backend esteja sendo executado para funcionar.
 
@@ -102,15 +102,11 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 # No seu diretório de preferência, clone este repositório
 
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone https://github.com/paulop2/NextLevelWeek1.0.git
 
 # Acesse a pasta do projeto no terminal/cmd
 
-$ cd README-ecoleta
-
-# Vá para a pasta server
-
-$ cd server
+$ cd NextLevelWeek1.0.git
 
 # Instale as dependências
 
@@ -118,7 +114,7 @@ $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 
-$ npm run dev:server
+$ npm run dev:NextLevelWeek1.0
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 
