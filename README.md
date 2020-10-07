@@ -78,7 +78,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/NLW1GIF.gif" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/NLW1GIF.gif" width="1000px">
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -217,11 +217,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Autor
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Paulo Vitor de Souza</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
- <br />
 
 [![Twitter Badge](https://img.shields.io/badge/--1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/motherfocs)](https://twitter.com/motherfocs) [![Linkedin Badge](https://img.shields.io/badge/-Paulo_Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/paulo-vitor-s-841883127) 
 [![Gmail Badge](https://img.shields.io/badge/-paulo225vitor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo225vitor@gmail.com)](mailto:paulo225vitor@gmail.com)
@@ -238,4 +233,4 @@ Feito com ❤️ por Paulo Vitor 👋🏽 [Entre em contato!](https://www.linked
 
 ##  Versões do README
 
-[Português 🇧🇷](./README.md)  |  [Em construção: Inglês sem emojis 🇺🇸](./README-en.md) | [Em construção: Portugues sem logo  🇧🇷](./README-sem-logo.md) 
+[Português 🇧🇷](./README.md)  |  [🚧 Em construção: Inglês sem emojis 🇺🇸 🚧]() 
