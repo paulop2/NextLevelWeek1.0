@@ -233,4 +233,4 @@ Feito com ❤️ por Paulo Vitor 👋🏽 [Entre em contato!](https://www.linked
 
 ##  Versões do README
 
-[Português 🇧🇷](./README.md)  |  [🚧 Em construção: Inglês sem emojis 🇺🇸 🚧]() 
+[Português 🇧🇷](./README.md)
