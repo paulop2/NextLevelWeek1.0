@@ -1,13 +1,9 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulop2/NextLevelWeek1.0?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulop2/NextLevelWeek1.0">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
-  </a>
-  
   <a href="https://blog.rocketseat.com.br/">
     <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
     </a>
